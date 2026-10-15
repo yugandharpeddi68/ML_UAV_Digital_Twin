@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# macOS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+Dataset/
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+.env
+~$*
